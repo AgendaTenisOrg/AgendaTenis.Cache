@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaTenis.Cache.Core", "AgendaTenis.Cache.Core\AgendaTenis.Cache.Core.csproj", "{03EE22D3-C978-4138-992D-485BAF659D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EE22D3-C978-4138-992D-485BAF659D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EE22D3-C978-4138-992D-485BAF659D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EE22D3-C978-4138-992D-485BAF659D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EE22D3-C978-4138-992D-485BAF659D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {302710A2-6D31-4846-8B65-BD8F97206E7C}
+	EndGlobalSection
+EndGlobal
