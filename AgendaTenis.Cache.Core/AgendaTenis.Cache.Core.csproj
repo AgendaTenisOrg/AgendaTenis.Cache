@@ -10,7 +10,7 @@
 		<Title>AgendaTenis.Cache.Core</Title>
 		<PackageTags>AgendaTenis.Cache;AgendaTenis.Cache.Core</PackageTags>
 		<PackageProjectUrl>https://github.com/AgendaTenisOrg/AgendaTenis.Cache</PackageProjectUrl>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 
 	</PropertyGroup>
 
